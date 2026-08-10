@@ -23,7 +23,6 @@ Working on some Minecraft plugin, and a bit of Minecraft mod, data analysis, mac
 - 📫 How to reach me:
   -   Email: **hsu960919@gmail.com**
   -   Discord: **wowkfccc**
-- ⚡ Fun fact: trying get award on **Taiwan International Science Fair**
 
 # 🛠️ Tools and Languages
 
